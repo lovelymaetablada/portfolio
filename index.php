@@ -245,4 +245,6 @@ The goal I’m currently striving for is to make this world a better place to li
 
 
 
-<link rel="import" href="footer.html">
+<?php
+include('footer.html');
+?>
