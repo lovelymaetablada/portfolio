@@ -2171,8 +2171,13 @@ background: url(../img/bg.jpg) center;
 
 .banner-img {
   text-align: right;
-  position: relative;
-  left: 160px; }
+  margin-right: 100px;
+  background: linear-gradient(to bottom right,#E4BBF5, #f6d1f0;);
+  border-radius: 25px; 
+  box-shadow: 5px 5px 5px 5px #888888;
+  width: 350px;
+  height: 300px;
+}
   @media (max-width: 1480px) {
     .banner-img {
       left: 0px; } }
