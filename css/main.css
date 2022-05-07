@@ -2170,12 +2170,12 @@ background: url(../img/bg.jpg) center;
       color: #90acd1; }
 
 .banner-img {
-  text-align: right;
+  text-align: center;
   margin-right: 100px;
-  background: linear-gradient(to bottom right,#E4BBF5, #f6d1f0;);
+  background: linear-gradient(to bottom right,#E4BBF5,#f6d1f0;);
   border-radius: 25px; 
   box-shadow: 5px 5px 5px 5px #888888;
-  width: 350px;
+  width: 380px;
   height: 300px;
 }
   @media (max-width: 1480px) {
@@ -2187,6 +2187,10 @@ background: url(../img/bg.jpg) center;
   @media (max-width: 1480px) {
     .banner-img img {
       max-width: 80%; } }
+.img-fluid {
+  width: 520px;
+  height: 300px;
+}
 
 .brand-wrap {
   background: #fff;
