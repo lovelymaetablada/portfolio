@@ -2172,7 +2172,7 @@ background: url(../img/bg.jpg) center;
 .banner-img {
   text-align: center;
   margin-right: 100px;
-  background: linear-gradient(to bottom right,#E4BBF5,#f6d1f0;);
+  background: #fff;
   border-radius: 25px; 
   box-shadow: 5px 5px 5px 5px #888888;
   width: 380px;
