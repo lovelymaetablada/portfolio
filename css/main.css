@@ -2301,7 +2301,7 @@ background: url(../img/bg.jpg) center;
   border-radius: 5px;
   margin-bottom: 30px; }
   .single-work .thumb .overlay-bg {
-    background: #e45447;
+    background: transparent;
     opacity: 0;
     border-radius: 5px;
     -webkit-transition: all 0.3s ease 0s;
