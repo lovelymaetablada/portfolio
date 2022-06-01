@@ -2172,9 +2172,6 @@ background: url(../img/bg.jpg) center;
 .banner-img {
   text-align: center;
   margin-right: 100px;
-  background: #fff;
-  border-radius: 25px; 
-  box-shadow: 5px 5px 5px 5px #888888;
   width: 380px;
   height: 300px;
 }
